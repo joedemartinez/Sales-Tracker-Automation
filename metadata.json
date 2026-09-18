@@ -1,0 +1,7 @@
+{
+  "name": "Sales Tracker & Automated Reporting Dashboard",
+  "description": "Real-time sales dashboard with automated daily and weekly PDF summary reports and manager email dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
